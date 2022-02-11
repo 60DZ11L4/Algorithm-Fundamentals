@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "variablesGlobalLocal.C": "cpp",
+        "stdio.h": "c"
+    }
+}
